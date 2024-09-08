@@ -1,17 +1,7 @@
 
-
-
-# Short description
+# What's PartnerProof?
 App which prove your relationship with your partner.
-
-
-## Description
-
-
-
-## How it's made
-
-
+![Banner_640*360](https://github.com/user-attachments/assets/165a782d-1874-4e5f-b383-e2f7d69f6bfb)
 
 ## Pain Points
 
@@ -33,6 +23,8 @@ there are no any mutual friends, so can't know each other until they've known ea
 
 
 ## Solution by this app
+
+![スクリーンショット 2024-09-08 18 20 28](https://github.com/user-attachments/assets/26f1dc8b-9689-4219-94be-5ad5d53bcf5e)
 
 1. **Any couple can be official.**
 
