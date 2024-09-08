@@ -1,6 +1,6 @@
 
 # What's PartnerProof?
-App which prove your relationship with your partner.
+**App which prove your relationship with your partner.**
 ![Banner_640*360](https://github.com/user-attachments/assets/165a782d-1874-4e5f-b383-e2f7d69f6bfb)
 
 ## Pain Points
@@ -9,13 +9,13 @@ App which prove your relationship with your partner.
 
 > International, Beyond-gender couple etc.
 
-An increasing number of partners are not officially recognized.
+> An increasing number of partners are not officially recognized.
 
 2. **Difficult to know backgrounds** 
 
 > It is difficult to know the relationship history, such as meeting on social media, so
 
-there are no any mutual friends, so can't know each other until they've known each other for a long time.
+> there are no any mutual friends, so can't know each other until they've known each other for a long time.
 
 3. **Unclear Start/Stop relationship**
 
