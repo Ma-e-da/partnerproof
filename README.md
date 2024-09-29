@@ -1,8 +1,8 @@
-This is my project at ETHOnline 2024 hackathon - August 23 – September 13, 2024 - .
 
+# This is a project at ETHOnline 2024 hackathon
+##  - August 23 – September 13, 2024 -
+# App which prove your relationship with your partner
 
-# What's PartnerProof?
-**App which prove your relationship with your partner.**
 ![Banner_640*360](https://github.com/user-attachments/assets/165a782d-1874-4e5f-b383-e2f7d69f6bfb)
 
 ## Pain Points
